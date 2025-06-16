@@ -1,1 +1,1 @@
-# Netflix-clone
+https://gokulpvtr.github.io/Netflix-clone/
